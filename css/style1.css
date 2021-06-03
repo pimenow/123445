@@ -1,0 +1,121 @@
+*{
+
+}
+ul{
+  list-style: none;
+}
+body{
+  width: auto;
+  height: auto;
+  background-color: #f1ede2 ;
+
+}
+.logo{
+width: auto;
+height: auto;
+}
+.navigation_1{
+  margin-left: 10%;
+  margin-top: -5%;
+  width: auto;
+  height: auto;
+  padding-left: 10%;
+}
+.navigation_v2{
+  width: 30%;
+  padding-top: 3%;
+}
+.logo2{
+  margin-left: 30%;
+  margin-top: -30%;
+  width: 100%;
+  height: 100%;
+  padding-left: 20%;
+  padding-bottom: 3%;
+}
+.main_v_1{
+  background-color: #3883aa;
+  color:white;
+
+
+}
+.first-form{
+  margin-left: 3%;
+  width: 35%;
+  background-color: #62a4be;
+  border-radius: 10px;
+}
+.button_form_1{
+  margin-left: 60%;
+  background-color: black;
+  color:white;
+  border-radius: 10px;
+}
+.main_v_2{
+  width: 60%;
+  margin-left: 40%;
+  margin-top: -13%;
+}
+.hr_2{
+  margin-top: 2%;
+  background-color: red;
+}
+.hr_1{
+  color:white;
+  background-color: black;
+}
+ul.hr {
+   margin: 0; /* Обнуляем значение отступов */
+   padding: 4px; /* Значение полей */
+  }
+  ul.hr li {
+   display: inline; /* Отображать как строчный элемент */
+   margin-right: 10%; /* Отступ слева */
+   padding: 3px; /* Поля вокруг текста */
+  }
+.main_footer{
+  width: 100%;
+  height: 200px;
+}
+.hr_main_footer{
+  border-radius: 10px;
+  margin-top: 2%;
+  background-color: #62a4be;
+  width: 40%;
+}
+.under_hr_footer{
+  width: 100%;
+  height: 100%;
+}
+.img_1{
+  width: auto;
+  height: auto;
+}
+.img_2{
+   width: auto;
+   height: auto;
+}
+.text_footer{
+  width: 30%;
+}
+.right_footer{
+  width: 50%;
+  margin-left: 45%;
+  margin-top: -15%;
+}
+.hr_1{
+  border-radius: 10px;
+}
+.hr_3{
+  background-color: red;
+  border-radius: 10px;
+  color:white;
+}
+.hr_2{
+  border-radius: 10px;
+}
+.button_v1{
+  background-color: #62a4be;
+  color:white;
+  border-radius: 10px;
+}
